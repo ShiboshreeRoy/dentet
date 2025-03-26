@@ -117,4 +117,4 @@ This tool is provided under the MIT License. See the [LICENSE](LICENSE) file for
 This tool is intended for educational purposes and legal penetration testing only. Use it responsibly and with permission from the owner of the target system. Unauthorized access to computer systems is illegal and punishable by law.
 
 ## For Help 
-[ShiboshreeROy]()
+[Shiboshree ROy](https://github.com/ShiboshreeRoy/dentet.git)
