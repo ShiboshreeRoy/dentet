@@ -1,0 +1,10 @@
+{
+  "target": "127.0.0.1",
+  "timestamp": "2025-03-26 18:04:55 +0600",
+  "results": [
+    {
+      "port": 22,
+      "status": "closed"
+    }
+  ]
+}
